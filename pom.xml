@@ -10,7 +10,7 @@
 
     <scm>
         <!--mvn release:prepare-->
-        <developerConnection>scm:git:https://github.com/yuan-code/wechat-design.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/yuan-code/wechat-aes.git</developerConnection>
     </scm>
 
     <dependencies>
