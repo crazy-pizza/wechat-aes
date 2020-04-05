@@ -4,12 +4,12 @@
 
     <groupId>com.hualala</groupId>
     <artifactId>aes-util</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <!--mvn release:prepare-->
         <developerConnection>scm:git:https://github.com/yuan-code/wechat-aes.git</developerConnection>
-      <tag>aes-util-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
